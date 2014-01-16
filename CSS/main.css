@@ -1,0 +1,11 @@
+@charset "UTF-8";
+/* CSS Document */
+
+<style>
+		div, h1, p{ border: 2px solid deeppink;}
+		body{background-color: #6659B2}
+		h1{background-color:#735BFF}
+		p{color:#FFE741}
+</style>  
+
+
